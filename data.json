@@ -2092,6 +2092,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
-        }
+        },
+        {
+            "name": "mrlight09",
+            "link": "https://github.com/mrlight09",
+            "label": "good first issue",
+            "technologies": [
+                "SQL"
+            ],
+            "description": "Hi, I'm light and i can help you wit databases"
+        },
     ]
 }
